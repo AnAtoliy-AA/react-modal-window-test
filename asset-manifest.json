@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-modal-window-test/static/css/main.b20a64d0.chunk.css",
+    "main.js": "/react-modal-window-test/static/js/main.5ef16c60.chunk.js",
+    "main.js.map": "/react-modal-window-test/static/js/main.5ef16c60.chunk.js.map",
+    "runtime-main.js": "/react-modal-window-test/static/js/runtime-main.87839174.js",
+    "runtime-main.js.map": "/react-modal-window-test/static/js/runtime-main.87839174.js.map",
+    "static/js/2.2d9d6c96.chunk.js": "/react-modal-window-test/static/js/2.2d9d6c96.chunk.js",
+    "static/js/2.2d9d6c96.chunk.js.map": "/react-modal-window-test/static/js/2.2d9d6c96.chunk.js.map",
+    "static/js/3.95290454.chunk.js": "/react-modal-window-test/static/js/3.95290454.chunk.js",
+    "static/js/3.95290454.chunk.js.map": "/react-modal-window-test/static/js/3.95290454.chunk.js.map",
+    "index.html": "/react-modal-window-test/index.html",
+    "static/css/main.b20a64d0.chunk.css.map": "/react-modal-window-test/static/css/main.b20a64d0.chunk.css.map",
+    "static/js/2.2d9d6c96.chunk.js.LICENSE.txt": "/react-modal-window-test/static/js/2.2d9d6c96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87839174.js",
+    "static/js/2.2d9d6c96.chunk.js",
+    "static/css/main.b20a64d0.chunk.css",
+    "static/js/main.5ef16c60.chunk.js"
+  ]
+}
