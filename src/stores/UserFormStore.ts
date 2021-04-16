@@ -7,10 +7,10 @@ const initialState = {
 };
 export class UserFormStore {
   @observable
-  formFieldsValue: IFormFields = initialState;
+  formFieldsData: IFormFields = initialState;
 
   @action
-  setGameSettings(formFieldsValue: IFormFields): void {
-    this.formFieldsValue = formFieldsValue;
+  setUserFormData(formFieldsValue: IFormFields): void {
+    this.formFieldsData = formFieldsValue;
   }
 }
